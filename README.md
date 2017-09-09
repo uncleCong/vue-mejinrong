@@ -18,4 +18,5 @@ npm run build
 npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+并未完全开发完成，接口数据使用[easy-mock](http://www.easy-mock.com)模拟或转发，参考了[me金融微信端](me.mejinrong.com/me-h5/)的界面，未涉及任何相关的业务逻辑，仅做练习使用！
+
